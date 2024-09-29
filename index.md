@@ -1,6 +1,6 @@
-# HELLO WORLD
+# Markdown Tutorial
 
-## VERY COOL
+## Boise State Football
 
 #### Ashton Jeanty For Heisman
 
@@ -12,12 +12,17 @@
 public static void main(String args[]){
   Scanner scan = new Scanner(System.in);
 
-  System.out.println("Who will be Mountain West Champion in 2024?);
+  System.out.println("Who will be Mountain West Champion in 2024?");
   if(!scan.nextLine().equals("Boise State") {
     System.out.println("Wrong!");
   }
   else {
-  System.out.println("Correct!");
+    System.out.println("Correct!");
   }
 }
 ```
+
+#### Boise State Football Road to the Playoffs
+- [X] Get ranked
+- [ ] Win every game (besides Oregon)
+- [ ] Win the Mountain West Championship
